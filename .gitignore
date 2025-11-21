@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+actors.csv
+crew.csv
+genres.csv
+languages.csv
+movies.csv
+posters.csv
+themes.csv
