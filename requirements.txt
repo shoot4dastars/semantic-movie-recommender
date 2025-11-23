@@ -1,0 +1,9 @@
+pandas
+gradio==6.0.0
+gradio_client==2.0.0.dev3
+langchain
+langchain-community
+langchain-huggingface
+langchain-chroma
+sentence-transformers
+torch
