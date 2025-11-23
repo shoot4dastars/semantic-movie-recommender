@@ -3,7 +3,7 @@
 
 An intelligent movie recommendation system powered by LangChain, ChromaDB, HuggingFace embeddings, and a Gradio web interface. Users can describe a movie, specify a genre or emotional tone, or even directly search by title, actor, director, or year to get accurate suggestions.
 
-👉 [Liveive app on HuggingFace Spaces](https://huggingface.co/spaces/shoot4dastars/semantic-movie-recommender)
+👉 [Live app on HuggingFace Spaces](https://huggingface.co/spaces/shoot4dastars/semantic-movie-recommender)
 
 ## 🚀 Features
 
