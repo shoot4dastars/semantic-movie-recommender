@@ -21,6 +21,7 @@ Your query is also matched against:
 - actors
 - directors
 - release year
+
 If a match is found, the recommender prioritizes those movies for higher accuracy.
 
 🎭 Emotion-Based Ranking
