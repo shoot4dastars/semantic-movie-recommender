@@ -43,7 +43,7 @@ Built with Gradio — clean, fast, and responsive UI.
 
 ## Demo
 
-[xyz](rec.gif)
+![Demo](https://github.com/shoot4dastars/semantic-movie-recommender/blob/main/rec.gif)
 
 ## Run Locally
 
